@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.API\\SistemaCompra.API.csproj": {}
+    "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.API\\SistemaCompra.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.API\\SistemaCompra.API.csproj": {
+    "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.API\\SistemaCompra.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.API\\SistemaCompra.API.csproj",
+        "projectUniqueName": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.API\\SistemaCompra.API.csproj",
         "projectName": "SistemaCompra.API",
-        "projectPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.API\\SistemaCompra.API.csproj",
+        "projectPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.API\\SistemaCompra.API.csproj",
         "packagesPath": "C:\\Users\\Silvi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.API\\obj\\",
+        "outputPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Application\\SistemaCompra.Application.csproj": {
-                "projectPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Application\\SistemaCompra.Application.csproj"
+              "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Application\\SistemaCompra.Application.csproj": {
+                "projectPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Application\\SistemaCompra.Application.csproj"
               },
-              "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj"
+              "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj"
               }
             }
           }
@@ -130,14 +130,14 @@
         }
       }
     },
-    "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Application\\SistemaCompra.Application.csproj": {
+    "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Application\\SistemaCompra.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Application\\SistemaCompra.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Application\\SistemaCompra.Application.csproj",
         "projectName": "SistemaCompra.Application",
-        "projectPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Application\\SistemaCompra.Application.csproj",
+        "projectPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Application\\SistemaCompra.Application.csproj",
         "packagesPath": "C:\\Users\\Silvi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Application\\obj\\",
+        "outputPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -159,11 +159,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj": {
-                "projectPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj"
+              "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj": {
+                "projectPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj"
               },
-              "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj"
+              "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj"
               }
             }
           }
@@ -216,14 +216,14 @@
         }
       }
     },
-    "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj": {
+    "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj",
         "projectName": "SistemaCompra.Domain.Core",
-        "projectPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj",
+        "projectPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\Silvi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Domain.Core\\obj\\",
+        "outputPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -283,14 +283,14 @@
         }
       }
     },
-    "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj": {
+    "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj",
         "projectName": "SistemaCompra.Domain",
-        "projectPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj",
+        "projectPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj",
         "packagesPath": "C:\\Users\\Silvi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -312,8 +312,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj"
+              "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj"
               }
             }
           }
@@ -354,14 +354,14 @@
         }
       }
     },
-    "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj": {
+    "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj",
         "projectName": "SistemaCompra.Infra.Data",
-        "projectPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj",
+        "projectPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\Silvi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Infra.Data\\obj\\",
+        "outputPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -383,8 +383,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj": {
-                "projectPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj"
+              "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj": {
+                "projectPath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj"
               }
             }
           }

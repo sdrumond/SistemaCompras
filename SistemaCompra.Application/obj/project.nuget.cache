@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VVIBGFtyupphsv2nzNrfzWH3WmuxXpZ8fBXZLKruzws9jyeGzvV2wgC1mmtF1n80ksz/6cASLWHbNLSE7Nmq+w==",
+  "dgSpecHash": "drg/vLfFAiyAc50mi8Odgdkufc10I9cO/L0bPHUXUIPJtgMfMeo7jGwOsKRIlLW3F5U0FeUI4WgKiC5TULaMhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.Application\\SistemaCompra.Application.csproj",
+  "projectFilePath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.Application\\SistemaCompra.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Silvi\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\Silvi\\.nuget\\packages\\awssdk.core\\3.7.106.18\\awssdk.core.3.7.106.18.nupkg.sha512",

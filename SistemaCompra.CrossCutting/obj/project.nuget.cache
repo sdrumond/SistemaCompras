@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iu169pm9rKbBFEqVMSxaOd47akACSk8KA6MDA9gzvGLfcLXR/FX+dck9oKb0aSlW8Br1pV9aEXFrCZHz0ZGW1A==",
+  "dgSpecHash": "D5fNiE6zBWrLFHiGjEfLf8aB2DIy2+YhBfMq4gIWojNwjmz2rMZLFEwsnehUjj7lZSR4r5OlZwQiwA5j9boD5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompra.CrossCutting\\SistemaCompra.CrossCutting.csproj",
+  "projectFilePath": "C:\\Users\\Silvi\\Projeto\\SistemaCompras-v3\\SistemaCompras\\SistemaCompra.CrossCutting\\SistemaCompra.CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Silvi\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
     "C:\\Users\\Silvi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

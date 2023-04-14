@@ -24,3 +24,13 @@ C:\Users\Silvi\Projeto\SistemaCompras-v3\SistemaCompra.Domain.Core\obj\Debug\net
 C:\Users\Silvi\Projeto\SistemaCompras-v3\SistemaCompra.Domain.Core\obj\Debug\netstandard2.0\SistemaCompra.Domain.Core.csproj.CoreCompileInputs.cache
 C:\Users\Silvi\Projeto\SistemaCompras-v3\SistemaCompra.Domain.Core\obj\Debug\netstandard2.0\SistemaCompra.Domain.Core.dll
 C:\Users\Silvi\Projeto\SistemaCompras-v3\SistemaCompra.Domain.Core\obj\Debug\netstandard2.0\SistemaCompra.Domain.Core.pdb
+C:\Users\Silvi\Projeto\SistemaCompras-v3\SistemaCompras\SistemaCompra.Domain.Core\bin\Debug\netstandard2.0\SistemaCompra.Domain.Core.deps.json
+C:\Users\Silvi\Projeto\SistemaCompras-v3\SistemaCompras\SistemaCompra.Domain.Core\bin\Debug\netstandard2.0\SistemaCompra.Domain.Core.dll
+C:\Users\Silvi\Projeto\SistemaCompras-v3\SistemaCompras\SistemaCompra.Domain.Core\bin\Debug\netstandard2.0\SistemaCompra.Domain.Core.pdb
+C:\Users\Silvi\Projeto\SistemaCompras-v3\SistemaCompras\SistemaCompra.Domain.Core\obj\Debug\netstandard2.0\SistemaCompra.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\Silvi\Projeto\SistemaCompras-v3\SistemaCompras\SistemaCompra.Domain.Core\obj\Debug\netstandard2.0\SistemaCompra.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silvi\Projeto\SistemaCompras-v3\SistemaCompras\SistemaCompra.Domain.Core\obj\Debug\netstandard2.0\SistemaCompra.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\Silvi\Projeto\SistemaCompras-v3\SistemaCompras\SistemaCompra.Domain.Core\obj\Debug\netstandard2.0\SistemaCompra.Domain.Core.AssemblyInfo.cs
+C:\Users\Silvi\Projeto\SistemaCompras-v3\SistemaCompras\SistemaCompra.Domain.Core\obj\Debug\netstandard2.0\SistemaCompra.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\Silvi\Projeto\SistemaCompras-v3\SistemaCompras\SistemaCompra.Domain.Core\obj\Debug\netstandard2.0\SistemaCompra.Domain.Core.dll
+C:\Users\Silvi\Projeto\SistemaCompras-v3\SistemaCompras\SistemaCompra.Domain.Core\obj\Debug\netstandard2.0\SistemaCompra.Domain.Core.pdb
